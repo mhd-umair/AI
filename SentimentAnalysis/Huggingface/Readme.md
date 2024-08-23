@@ -22,3 +22,7 @@ The main steps involved in the code are:
 ## Sample Data
 
 The repo comes with a sample dataset that you can use to test the sentiment analysis. 
+
+## Running the code
+
+Visit Google Colab > File > Open Notebook > Select the notebook
